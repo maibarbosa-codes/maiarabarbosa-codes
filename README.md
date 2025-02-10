@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Frontend em andamento 🚀`**
 
-Me chamo **Maiara Barbosa**, tenho **27 anos** e estou no início da minha jornada como **desenvolvedora frontend**. Estou migrando do **design gráfico para o desenvolvimento web** e estudando diariamente para conquistar minha primeira oportunidade na área.  
+Me chamo **Maiara Barbosa** e estou no início da minha jornada como **desenvolvedora frontend**. Estou migrando do **design gráfico para o desenvolvimento web** e estudando diariamente para conquistar minha primeira oportunidade na área.  
 
 🎓 **Formação**
 - Bacharel em Design pela **UFPE**  
